@@ -1,0 +1,97 @@
+# Fill in, commit and push each day.
+# Group Member: Malaika Zaidi
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :Distributed tasks amongst members.
+	Obstacles :Finishing within estimated time period.
+
+Nov 3, 2018
+	Yesterday :Read User story 5 and tried to create a temporary solution.
+	Today     :Work on user story 5
+	Obstacles :none
+
+Nov 4, 2018
+	Yesterday :
+	Today     :Finished UserStory5 partially
+	Obstacles :need to fix bugs in the story.
+
+Nov 5, 2018
+	Yesterday :
+	Today     :fixed bugs in color selector
+	Obstacles :colors not working correctly
+
+Nov 6, 2018
+	Yesterday :
+	Today     :fixed style of colorpanel
+	Obstacles :
+
+Nov 7, 2018
+	Yesterday :
+	Today     :Working on Bug5
+	Obstacles :
+
+Nov 8, 2018
+	Yesterday :started waorking on userstory9
+	Today     :finished UserStory9 after fixing bugs
+	Obstacles :
+
+Nov 9, 2018
+	Yesterday :
+	Today     :Continue to fix bugs in BUG5
+	Obstacles : Squiggle ends up being polyline.
+
+Nov 10, 2018
+	Yesterday :tried fixing bugs in BUG5
+	Today     :Completed BUG5. 
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday :
+	Today     :	Started working on Bug7 BUT realized another bug had already taken the design into consideration.
+	Obstacles :
+	
+Nov 12, 2018
+	Yesterday :
+	Today     :Looked for any bugs in the application.
+	Obstacles :
+
+Nov 13, 2018
+	Yesterday :
+	Today     :Worked on Bug12. Finished BUg12. WORKed ON BUG11. finished Bug11.
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday :
+	Today     :Finished Bug8.
+	Obstacles :
+	
+Nov 15, 2018
+	Yesterday :
+	Today     :Finished Bug18. wasn't able to complete BUg16.
+	Obstacles :
+

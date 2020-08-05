@@ -1,0 +1,106 @@
+# Fill in, commit and push each day.
+# Group Member: Alana Hodge
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :First Scrum Meeting with Team! Decided on design approach and divided responsibilities. 
+			We also set goals for this sprint and made plans for next scrum meeting.
+	Obstacles : Conflicting schedules might make it hard for us to meet up together all at once and frequently.
+
+Nov 3, 2018
+	Yesterday :First Scrum Meeting with Team! Decided on design approach and divided responsibilities. 
+			We also set goals for this sprint and made plans for next scrum meeting.
+	Today     :Started User Story 3
+	Obstacles :
+
+Nov 4, 2018
+	Yesterday : Started User Story 3
+	Today     : Finished User Story 3. 
+	Obstacles : Using individual g.strokeLine commands to fill rectangles may make it harder to fill in 
+			rectangles with colour. May adjust code to use different commands instead...
+
+Nov 5, 2018
+	Yesterday :Finished User Story 3. 
+	Today     :Started planning code for User Story 4. 
+	Obstacles :PaintPanel is stretched due to fault in layout. Testing shape construction for User Story 4
+			isn't possible until it is fixed. 
+
+Nov 6, 2018
+	Yesterday :Started planning code for User Story 4. 
+	Today     :PaintPanel stretching issue from yesterday is now resolved! Finished User Story 4. 
+	Obstacles :Rectangles can only be drawn in one direction - top left to bottom right. Will need to reconfigure.
+			Perhaps this should be a UserStory (Bug) to fix in Sprint 2 or onwards? Will discuss with
+			group members.
+
+Nov 7, 2018
+	Yesterday : Finished User Story 4
+	Today     : Working on Rectangle Drawing bug
+	Obstacles : Is there some issue with git? Can't see all changes made by group members when I git pull...
+
+Nov 8, 2018
+	Yesterday : Worked on Rectangle Drawin bug.
+	Today     : Rectangle Drawing Bug fixed!Started Sprint 2 today!
+	Obstacles : CSC236 midterm might slow down our progress. Still some issues with merging...meeting up with some
+			members to get help.
+
+Nov 9, 2018
+	Yesterday :Started Sprint 2!
+	Today     : Getting assistance with git merging issues...
+	Obstacles :CSC236 midterm might slow down our progress. Still some issues with merging...meeting up with some
+			members to get help.
+
+Nov 10, 2018
+	Yesterday :
+	Today     :Started Working on bug 1.
+	Obstacles :Can't decide if we should import custom made icons or draw our own in the buttons.
+	
+Nov 11, 2018
+	Yesterday :
+	Today     : Working on Bug 1. We'll draw our own icons into the buttons!
+	Obstacles : Studying for 236 midterm.
+	
+Nov 12, 2018
+	Yesterday :Worked on Bug 1
+	Today     :Working on Bug 1. Worked on Undo/Redo functionality!
+	Obstacles :Studying fo 236 midterm. How do we set button to display graphic without setting
+			button text to null? Doing so interferes with strategy...
+
+Nov 13, 2018
+	Yesterday :
+	Today     : Studying for 236 midterm. Sorry Prof. Arnold!
+	Obstacles :
+
+Nov 14, 2018
+	Yesterday : Studying for 236 midterm.
+	Today     : Worked on Undo / Redo functionality a bit. Using two arrays of Drawing Commands to keep track of
+			the commands that will need to be added and removed to implement redo and undo, respectively.
+	Obstacles : CSC236 is not as fun as CSC207. Don't tell Prof. Dema.
+
+Nov 15, 2018
+	Yesterday :
+	Today	  : Finished Undo/Redo Functionality! Finalized Icons for Shape selector buttons!
+	Obstacles :

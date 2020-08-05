@@ -1,0 +1,98 @@
+# Fill in, commit and push each day.
+# Group Member: Marco Matamoros
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 3, 2018
+	Yesterday : Went through the project to understand how the starter code works
+	Today     : Work on UserStory6 specifically being able to set the fill style
+	Obstacles : None
+
+Nov 4, 2018
+	Yesterday : Finished being able to set the fill style
+	Today     : Finish the UI for selecting the fill style
+	Obstacles : None
+
+Nov 5, 2018
+	Yesterday : Finished User Story 6
+	Today     : Work on User Story 7, specifically being able to set the line
+		    thickness
+	Obstacles : None
+
+Nov 6, 2018
+	Yesterday : Finished being able to set the line thickness
+	Today     : Finish the UI for selecting the line thickness
+	Obstacles : None
+
+Nov 7, 2018
+	Yesterday : Finished User Story 7
+	Today     : Work on User Story 8 and fix minor bugs in master branch
+	Obstacles : Creating squares requires working rectangles
+
+Nov 8, 2018
+	Yesterday : Fixed rectangles and finished User Story 8
+	Today     : Work on Bug 3
+	Obstacles : Not all shapes are finished, so some modes may not be complete.
+
+Nov 9, 2018
+	Yesterday : Finished most of ShapeMode and RectangleMode
+	Today     : Finish creating all other modes
+	Obstacles : Not all shapes are finished, so some modes may not be complete.
+
+Nov 10, 2018
+	Yesterday : Finished Bug 3
+	Today     : Work on Bug 4, specifically creating the DrawingCommand interface and
+		    using it in PaintModel.
+	Obstacles : None
+	
+Nov 11, 2018
+	Yesterday : Created DrawingCommand and modified PaintPanel and PaintModel
+	Today     : Finish implementing all shape DrawingCommands
+	Obstacles : None
+	
+Nov 12, 2018
+	Yesterday : Finished Bug 4
+	Today     : Rename ShapeMode and its subclasses to ShapeManipulatorStrategy
+	Obstacles : None
+
+Nov 13, 2018
+	Yesterday : Finished Bug 10
+	Today     : Finish Bug 13 and possibly Bug 14
+	Obstacles : None
+
+Nov 14, 2018
+	Yesterday : Finished Bug 13 and Bug 14
+	Today     : Nothing
+	Obstacles : None
+
+Nov 14, 2018
+	Yesterday : Nothing
+	Today     : Finish Bug 15 and work on improving the design
+	Obstacles : None

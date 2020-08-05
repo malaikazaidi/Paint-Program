@@ -1,0 +1,95 @@
+# Fill in, commit and push each day.
+# Group Member: Almas Zahra
+Oct 28, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2018
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2018
+	Yesterday :
+	Today     : Read and tried to understand the assignment 
+	Obstacles : 
+
+Oct 31, 2018
+	Yesterday : 
+	Today     : Read and tried to understand the assignment
+	Obstacles :
+
+Nov 1, 2018
+	Yesterday :
+	Today     : Read and tried to understand the assignment
+	Obstacles :
+
+Nov 2, 2018
+	Yesterday : Read and tried to understand the assignment
+	Today     : Edited on how the circle radius is calculated.
+	Obstacles : None 
+
+Nov 3, 2018
+	Yesterday : Fixed the radius calculation
+	Today     : Understanding on how a circle is formed. Understanding git and branches in git
+	Obstacles : Dindn't properly understand git branches
+Nov 4, 2018
+	Yesterday : Understanding git branches and how a circle is formed.
+	Today     : Claimed UserStory 2. Research on how to draw a circle with feedback. Understanding each mouse event
+	Obstacles : Canvas wasn't implemented properly. Couldn't really tell what was happening when drawing a circle. Circle radius not been properly calculated.
+
+Nov 5, 2018
+	Yesterday : Tried to write some code that may help in circle feedback.
+	Today     : Still working on drawing circles. Implemented circle feedback. 
+	Obstacles : Can't seem to figure out why circle is not been drawn properly.
+
+Nov 6, 2018
+	Yesterday : Circle feedback implemented. But didn't know if it was properly done due to canvas scaling
+	Today     : Canvas panel fixed. Implemented circle feedback.
+	Obstacles : Circle radius not been calculated properly circle changes size when mouse is released.
+
+Nov 7, 2018
+	Yesterday : Canvas Panel fixed. Implemented circle feedback. Drew some circle to look for any problems.
+	Today     : Figuring out how to calculate the radius so the circle is drawn properly.
+	Obstacles : Circle radius wans't been calculated properly.
+
+Nov 8, 2018
+	Yesterday : Figured the problem out. Radius not been calculated properly. 
+	Today     : Working on calculating the circle radius. Claimed UserStory10.
+	Obstacles : Struggling with how the radius should be calculated.
+
+Nov 9, 2018
+	Yesterday : Figured out how to calculate the radius. Circle doesn't change size when mouse is released.
+	Today     : Working on UserStory10.
+	Obstacles : When the mouse is dragged circle circumfrence is not aligned with the mouse. Polyline- when the mouse is dragged the line feedback acts funny.   
+
+Nov 10, 2018
+	Yesterday : Fixed Polyline feedback. Completed UserStory10.
+	Today     : Claiming Bug-6
+	Obstacles :
+	
+Nov 11, 2018
+	Yesterday : Bug-6 completed by default. 
+	Today     : Trying to understand how to implement Polylines again it.
+	Obstacles : Polyline not properly implemented. 
+	
+Nov 12, 2018
+	Yesterday : Trying to understand how to implement Polylines again it.
+	Today     : Polyline class implemented.
+	Obstacles : Doesn't draw polyline the way its suppose to.
+
+Nov 13, 2018
+	Yesterday : Polyline class implemented.
+	Today     : Figuring out why polyline is not drawing properly.
+	Obstacles : Don't know which method is causing the problem.
+
+Nov 14, 2018
+	Yesterday : Figuring out why polyline is not drawing properly
+	Today     : Playing with mouseEvent methods to see what the problem is
+	Obstacles : Can make a line but when mouse is dragged or can make a squiggle that connects 2 points or more
+
+Nov 15, 2018
+	Yesterday : Playing with mouseEvent methods to see what the problem is
+	Today     : Figured Polyline out. Persevence saves the day! 
+	Obstacles :
